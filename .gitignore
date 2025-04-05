@@ -1,0 +1,38 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*~
+
+# 日志文件
+*.log
+logs/
+
+# 构建输出
+build/
+dist/
+out/
+target/
+
+# 依赖管理
+node_modules/
+vendor/
+.env
+
+# 其他
+.cache/
+.sass-cache/
+coverage/ 
